@@ -11,7 +11,7 @@ function verificarMaior(numero1, numero2) {
     }
 }
 
-// Exemplos de uso:
-var numero1 = 5;
-var numero2 = 8;
+// Escolha os dois números:
+var numero1 = ;
+var numero2 = ;
 verificarMaior(numero1, numero2);
